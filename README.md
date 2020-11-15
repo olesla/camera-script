@@ -8,4 +8,6 @@ Saves a picture using `raspistill` which requires a RPi compatible camera. [Read
 - Make sure you've installed an SSH key on the `REMOTE_IP` machine. This can be done by running `ssh-copy-id your-username@your-ip`
 
 - Make sure `raspistill` is installed
+- Make sure files are executable by doing `chmod +x camera.sh` and `chmod +x remove-old.sh`
 - Install `camera.sh` as a crontab on your RPi
+- Install `remove-old.sh` as a crontab on your external server
