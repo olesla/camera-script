@@ -1,5 +1,4 @@
 # camera-script
-
 Saves a picture using `raspistill` which requires a RPi compatible camera. [Read this](https://www.raspberrypi.org/documentation/usage/camera/installing.md) for instructions on how to physically install the camera. The file is then uploaded to a remote, then deleted locally.
 
 ## Installation

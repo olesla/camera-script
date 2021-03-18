@@ -1,5 +1,4 @@
 #!/bin/bash
-
 REMOTE_PATH="your-remote"
 REMOTE_USER="your-username"
 REMOTE_IP="your-ip-addres"
